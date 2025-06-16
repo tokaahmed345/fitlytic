@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "819905247319",
+    "project_id": "fluttercourse-5af65",
+    "storage_bucket": "fluttercourse-5af65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819905247319:android:e3ca26157456e518010b12",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_depi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819905247319-ma8bouc9922p3gvop23btmba7pr5a9h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_depi",
+            "certificate_hash": "271a0114903fee67f9b81e5e86d8fe84062c56ce"
+          }
+        },
+        {
+          "client_id": "819905247319-lnbh0pub6f4nve45oa2obg7qltgs0nr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMy968UAI1YI71Mg2vHQikFqNEDra4_o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819905247319-lnbh0pub6f4nve45oa2obg7qltgs0nr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819905247319:android:da32dbf68ec1b0e8010b12",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_depi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819905247319-lnbh0pub6f4nve45oa2obg7qltgs0nr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMy968UAI1YI71Mg2vHQikFqNEDra4_o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819905247319-lnbh0pub6f4nve45oa2obg7qltgs0nr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
