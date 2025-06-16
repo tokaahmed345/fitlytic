@@ -1,5 +1,5 @@
 
-# Fitlytic
+## Fitlytic
 
 Fitlytic is a Flutter-based fitness app designed to help users track their workouts, analyze progress, and stay motivated. Built with a clean **MVC architecture**, the app ensures maintainable and scalable code. It integrates multiple powerful tools and technologies to provide a smooth and responsive user experience.
 
